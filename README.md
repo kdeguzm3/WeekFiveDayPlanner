@@ -1,2 +1,0 @@
-# WeekFiveDayPlanner
-Created with CodeSandbox
