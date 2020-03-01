@@ -1,0 +1,43 @@
+.hourBlock {
+    margin: 2px;
+    min-height: 2em;
+}
+
+.hourLabel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding: .25em;
+    width: 60px;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-red {
+    background-color: red;
+    color: white;
+}
+
+.bg-green {
+    background-color: green;
+    color: white;
+}
+
+.TextArea {
+    position: absolute;
+    left: 60px;
+    width: calc(100% - 62px);
+}
+
+.submit {
+    position: absolute;
+    right: 0;
+    height: 100%;
+    width: 40px;
+    background-image: url(./submit.png);
+    background-size: cover;
+    background-blend-mode: multiply;
+}
