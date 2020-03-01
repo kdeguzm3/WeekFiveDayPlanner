@@ -2,7 +2,6 @@ let date = moment().format("dddd, MM/DD/YYYY");
 let dateArray = ["9am", "10am", "11am", "12pm", "1pm", "2pm", "3pm", "4pm"];
 let currentTime = moment().format("H");
 let textArray = [];
-currentTime = 12;
 let Appointments = {};
 
 dd("#headerDiv")    //Header
